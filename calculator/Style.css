@@ -1,0 +1,15 @@
+*{
+
+}
+.form{
+  text-align: center;
+  background-color: white;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  float: inherit;
+
+}
+
+.form label{
+  background-color: white;
+}
